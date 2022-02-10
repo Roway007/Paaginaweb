@@ -23,6 +23,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+<div class="social">
+			<a href="https://www.instagram.com/elrinconcitodelsaborjl/" target="_blank">
+				<ion-icon name="logo-instagram"></ion-icon> <span>Seguinos en Instagram!</span>
+			<a href="https://www.facebook.com/elrinconcitodelsabor0/" target="_blank">
+				<ion-icon name="logo-facebook"></ion-icon> <span>Seguinos en Facebook!</span>	
+			<a href="https://wa.me/5930990291804" target="_blank">
+				<ion-icon name="logo-whatsapp"></ion-icon>Escribenos a Whatsapp!</a>
+		</div>
+
 [Link](url) and ![Image](src)
 ```
 
