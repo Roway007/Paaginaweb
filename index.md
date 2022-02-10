@@ -1,12 +1,3 @@
-<div class="social">
-			<a href="https://www.instagram.com/elrinconcitodelsaborjl/" target="_blank">
-				<ion-icon name="logo-instagram"></ion-icon> <span>Seguinos en Instagram!</span>
-			<a href="https://www.facebook.com/elrinconcitodelsabor0/" target="_blank">
-				<ion-icon name="logo-facebook"></ion-icon> <span>Seguinos en Facebook!</span>	
-			<a href="https://wa.me/5930990291804" target="_blank">
-				<ion-icon name="logo-whatsapp"></ion-icon>Escribenos a Whatsapp!</a>
-		</div>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Roway007/Paaginaweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
